@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Soy un desarrollador web junior.
+I am a Junior Web Developer
 
 ```js
 import SoftwareDeveloper from 'MrKrrot';
