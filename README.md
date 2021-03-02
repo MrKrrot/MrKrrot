@@ -28,6 +28,9 @@ class Skills extends SoftwareDeveloper {
     };
 }
 ```
+| Most Used Languages | GitHub Stats |
+| ------------------- | ------------ |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrKrrot&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api/?username=MrKrrot&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&text_color=f0f6fc) |
 <!--
 **MrKrrot/MrKrrot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
