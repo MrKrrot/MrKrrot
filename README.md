@@ -26,6 +26,8 @@ class Skills extends SoftwareDeveloper {
             Gulp = true;
         }
     };
+    
+    frameworks = async () => await learn('React', 'Express', 'Next');
 }
 ```
 | Most Used Languages | GitHub Stats |
