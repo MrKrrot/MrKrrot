@@ -27,7 +27,7 @@ class Skills extends SoftwareDeveloper {
         }
     };
     
-    frameworks = async () => await learn('React', 'Express', 'Next');
+    frameworks = async () => await learn('MongoDB', 'Express', 'React', 'Node.js', 'Next.js');
 }
 ```
 | Most Used Languages | GitHub Stats |
