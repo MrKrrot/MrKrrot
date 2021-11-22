@@ -6,7 +6,7 @@ I am a Junior Web Developer
 import SoftwareDeveloper from 'MrKrrot';
 
 class Bio extends SoftwareDeveloper {
-    name     = 'Rafael Sánchez Olguín';
+    name     = 'Rafael';
     stack    = 'Frontend Junior Developer';
     location = 'México';
 }
