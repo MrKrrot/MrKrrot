@@ -1,7 +1,4 @@
 # Hi there 👋
-
-I am a Junior Web Developer
-
 ```js
 import WebDeveloper from 'MrKrrot'
 
