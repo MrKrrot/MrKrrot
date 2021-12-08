@@ -3,31 +3,31 @@
 I am a Junior Web Developer
 
 ```js
-import SoftwareDeveloper from 'MrKrrot';
+import WebDeveloper from 'MrKrrot';
 
-class Bio extends SoftwareDeveloper {
-    name     = 'Rafael';
-    stack    = 'Frontend Junior Developer';
-    location = 'México';
+class Bio extends WebDeveloper {
+    name:      'Rafael',
+    stack:     'Frontend Developer',
+    location:  'México',
 }
 
-class Skills extends SoftwareDeveloper {
-    languages = ['HTML', 'CSS', 'JavaScript', 'Java'];
+class Skills extends WebDeveloper {
+    languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript']
 
     preprocessos = {
         html: 'Pug',
-        css: 'Sass/SCSS'
-    };
-
-    othersTecnologies = {
-        versionControl = 'Git',
-        softwareHosting = 'GitHub',
-        tasksRunners = {
-            Gulp = true;
-        }
-    };
+        css:  'Sass/SCSS',
+    }
     
-    frameworks = async () => await learn('MongoDB', 'Express', 'React', 'Node.js', 'Next.js');
+    frameworks = ['Express', 'React']
+    
+    othersTecnologies = {
+        backend:         'Node',
+        versionControl:  'Git',
+        softwareHosting: 'GitHub',
+    }
+    
+    frameworks = async () => await learn('Next.js')
 }
 ```
 | Most Used Languages | GitHub Stats |
