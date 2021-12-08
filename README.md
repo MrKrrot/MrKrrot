@@ -3,7 +3,7 @@
 I am a Junior Web Developer
 
 ```js
-import WebDeveloper from 'MrKrrot';
+import WebDeveloper from 'MrKrrot'
 
 class Bio extends WebDeveloper {
     name:      'Rafael',
