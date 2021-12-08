@@ -9,7 +9,7 @@ class Bio extends WebDeveloper {
 }
 
 class Skills extends WebDeveloper {
-    languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript']
+    languages  = ['HTML', 'CSS', 'JavaScript', 'TypeScript']
     frameworks = ['Express', 'React']
 
     preprocessos = {
