@@ -10,21 +10,20 @@ class Bio extends WebDeveloper {
 
 class Skills extends WebDeveloper {
     languages = ['HTML', 'CSS', 'JavaScript', 'TypeScript']
+    frameworks = ['Express', 'React']
 
     preprocessos = {
         html: 'Pug',
         css:  'Sass/SCSS',
     }
     
-    frameworks = ['Express', 'React']
-    
-    othersTecnologies = {
+    otherTechnologies = {
         backend:         'Node',
         versionControl:  'Git',
         softwareHosting: 'GitHub',
     }
     
-    frameworks = async () => await learn('Next.js')
+    frameworks = async () => await learn('Next.js', 'Nest.js')
 }
 ```
 | Most Used Languages | GitHub Stats |
