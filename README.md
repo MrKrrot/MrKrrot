@@ -4,7 +4,7 @@ import WebDeveloper from 'MrKrrot'
 
 class Bio extends WebDeveloper {
     name:      'Rafael',
-    stack:     'Frontend Developer',
+    stack:     'FullStack Developer',
     location:  'México',
 }
 
