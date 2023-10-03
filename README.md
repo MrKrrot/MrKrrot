@@ -1,29 +1,24 @@
-# Hi there 👋
+![Wallpaper](https://github.com/MrKrrot/MrKrrot/assets/5274471/3edaf9c8-1c8b-4083-8e4a-cafa90bc7fc1)
 ```js
-import WebDeveloper from 'MrKrrot'
 
-class Bio extends WebDeveloper {
-    name:      'Rafael',
-    stack:     'FullStack Developer',
-    location:  'México',
+import Developer from 'MrKrrot'
+
+class Bio extends Developer {
+  constructor() {
+    this.name      = 'Rafael'
+    this.title     = 'FullStack Software Engineer'
+    this.location  = 'México'
+  }
 }
 
-class Skills extends WebDeveloper {
-    languages  = ['HTML', 'CSS', 'JavaScript', 'TypeScript']
-    frameworks = ['Express', 'React']
-
-    preprocessos = {
-        html: 'Pug',
-        css:  'Sass/SCSS',
-    }
-    
-    otherTechnologies = {
-        backend:         'Node',
-        versionControl:  'Git',
-        softwareHosting: 'GitHub',
-    }
-    
-    frameworks = async () => await learn('Next.js', 'Nest.js')
+class Skills extends Developer {
+  constructor() {
+    this.languages  = ['JavaScript', 'TypeScript', 'Go']
+    this.frameworks = ['Express.js', 'Nest.js', 'Next.js', 'React', 'MUI', 'React Native', 'Expo', 'Gin']
+    this.testing    = ['Jest', 'Supertest']
+    this.databases  = ['MongoDB', 'Redis', 'MySQL', 'PostgreSQL']
+    this.tools      = ['AWS', 'CI/CD', 'Stripe', 'MVC', 'REST', 'Agile']
+  }
 }
 ```
 | Most Used Languages | GitHub Stats |
