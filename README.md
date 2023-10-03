@@ -1,5 +1,4 @@
-![Wallpaper](https://github.com/MrKrrot/MrKrrot/assets/5274471/e7d160fa-6332-4702-b40e-9715dc0ba1bf)
-
+![Banner](https://github.com/MrKrrot/MrKrrot/assets/5274471/ea203f4b-6b6a-4062-a1f5-d98c4b4ede66)
 
 ```js
 
