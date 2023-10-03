@@ -1,4 +1,6 @@
-![Wallpaper](https://github.com/MrKrrot/MrKrrot/assets/5274471/3edaf9c8-1c8b-4083-8e4a-cafa90bc7fc1)
+![Wallpaper](https://github.com/MrKrrot/MrKrrot/assets/5274471/e7d160fa-6332-4702-b40e-9715dc0ba1bf)
+
+
 ```js
 
 import Developer from 'MrKrrot'
